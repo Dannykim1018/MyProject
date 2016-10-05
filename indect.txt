@@ -1,4 +1,9 @@
 index
 header
+<<<<<<< HEAD
 Normal
 git이란
+=======
+test 추가
+title 추가
+>>>>>>> test
